@@ -1,4 +1,4 @@
-﻿namespace WebApi_Test
+﻿namespace WebApi_Test.Modelos
 {
     public class Asteroide
     {

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net;
+using WebApi_Test.Modelos;
 
 namespace WebApi_Test.Repositorios
 {
